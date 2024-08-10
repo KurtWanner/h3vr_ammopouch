@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ammo_Pouch_Scripts", "Ammo_Pouch_Scripts.csproj", "{9B3E5896-EFF1-4D8F-9D53-C3AB68A2BF21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3E5896-EFF1-4D8F-9D53-C3AB68A2BF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3E5896-EFF1-4D8F-9D53-C3AB68A2BF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3E5896-EFF1-4D8F-9D53-C3AB68A2BF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3E5896-EFF1-4D8F-9D53-C3AB68A2BF21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A495D46-805C-49CB-901F-5A7341982CEF}
+	EndGlobalSection
+EndGlobal
